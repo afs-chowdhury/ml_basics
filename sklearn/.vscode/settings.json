@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "E:\\codes\\Machine_learning\\mlcourse_codes\\numpy\\env\\python.exe",
+    "python.formatting.provider": "black"
+}
